@@ -19,3 +19,8 @@ I am motivated to deepen my skills in R and Python, which I had the opportunity 
 
 ![Image of a class from my Python code representing a 1D exam](image/python_code_ClassExam1D.png)
 This code was developed during the first year of my master’s program as part of a computer science course. The goal was to design a hospital interface using object-oriented programming. We created several classes to model the operation of a healthcare facility, including Patient, Exam, Staff, Department, and Enregistrement1D. The latter class reads data from a CSV file and plots a graph illustrating, for example, an ECG signal. This project allowed me to apply my Python skills in a real-world health-related context.
+
+# Summarize what I have learned
+
+I learned how to use Git and GitHub to create repositories, work on branches, save my changes with commits, and push them to GitHub. I used GitHub Desktop and VSCode to do this. At first, I had some trouble because I opened the README file with RStudio instead of VSCode, and then I couldn’t save my changes. After taking my time, I managed to complete the work. This helped me understand how to manage my projects with Git. Now, I feel more confident using these tools.
+I spent at least 3 hours and 30 minutes completing this assignment.
