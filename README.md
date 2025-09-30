@@ -17,5 +17,5 @@ I am motivated to deepen my skills in R and Python, which I had the opportunity 
 
 # An example of Python code I was able to write
 
-![Image of a class from my Python code representing a 1D exam](python_code_ClassExam1D.png)
+![Image of a class from my Python code representing a 1D exam](image/python_code_ClassExam1D.png)
 This code was developed during the first year of my master’s program as part of a computer science course. The goal was to design a hospital interface using object-oriented programming. We created several classes to model the operation of a healthcare facility, including Patient, Exam, Staff, Department, and Enregistrement1D. The latter class reads data from a CSV file and plots a graph illustrating, for example, an ECG signal. This project allowed me to apply my Python skills in a real-world health-related context.
